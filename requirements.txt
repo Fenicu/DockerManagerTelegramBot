@@ -1,4 +1,4 @@
 loguru
 PyTelegramBotApi
 docker
-pymongo
+cherrypy
